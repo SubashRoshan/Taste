@@ -10,7 +10,7 @@ Run it locally :
 
 2. Create a cloudinary account and mapbox account to get an API key and secret code
 
-         git clone https://github.com/BrijeshDurai/Taste.git
+         git clone https://github.com/SubashRoshan/Taste.git
 
          cd taste
 
